@@ -1,0 +1,103 @@
+openapi: 3.0.0
+info:
+  title: API de Gestión de Órdenes
+  description: API para la gestión de órdenes.
+  version: 1.0.0
+components:
+  schemas:
+    Order:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: ID de la orden
+        user_id:
+          type: string
+          description: ID del usuario
+        product_id:
+          type: string
+          description: ID del producto
+        quantity:
+          type: number
+          description: Cantidad del producto
+        status:
+          type: string
+          description: Estado de la orden
+      example:
+        _id: 6634319c465242cd36b3a8b2
+        user_id: 6634319c465242cd36b3a8b1
+        product_id: 6634319c465242cd36b3a8b3
+        quantity: 2
+        status: reserved
+  responses:
+    res201Order:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          $ref: '#/components/schemas/Order'
+      example:
+        status: success
+        payload:
+          _id: 6634319c465242cd36b3a8b2
+          user_id: 6634319c465242cd36b3a8b1
+          product_id: 6634319c465242cd36b3a8b3
+          quantity: 2
+          status: reserved
+    res200Order:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          type: array
+          items:
+            $ref: '#/components/schemas/Order'
+      example:
+        status: success
+        payload:
+          - _id: 6634319c465242cd36b3a8b2
+            user_id: 6634319c465242cd36b3a8b1
+            product_id: 6634319c465242cd36b3a8b3
+            quantity: 2
+            status: reserved
+  paths:
+    /api/orders:
+      get:
+        summary: Obtener todas las órdenes
+        tags:
+          - Orders
+        responses:
+          '200':
+            description: Éxito
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res200Order'
+          '404':
+            description: No encontrado
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res404'
+      post:
+        summary: Crear una nueva orden
+        tags:
+          - Orders
+        requestBody:
+          required: true
+          description: Datos de la orden
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Order'
+        responses:
+          '201':
+            description: Éxito
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res201Order'

@@ -1,0 +1,282 @@
+openapi: 3.0.0
+info:
+  title: API de Gestión de Usuarios
+  description: API para la gestión de usuarios.
+  version: 1.0.0
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: ID del usuario
+        first_name:
+          type: string
+          description: Nombre del usuario
+        last_name:
+          type: string
+          description: Apellido del usuario
+        email:
+          type: string
+          description: Correo electrónico del usuario
+        password:
+          type: string
+          description: Contraseña del usuario
+        avatar:
+          type: string
+          description: Avatar del usuario
+        role:
+          type: string
+          description: Rol del usuario
+      example:
+        _id: 6634319c465242cd36b3a8b1
+        first_name: Gabriela
+        last_name: Coder
+        email: gabriela@coder.com
+        password: hola1234
+        avatar: https://cdn-icons-png.flaticon.com/512/6596/6596121.png
+        role: user
+    Register:
+      type: object
+      properties:
+        first_name:
+          type: string
+          description: Nombre del usuario
+        last_name:
+          type: string
+          description: Apellido del usuario
+        email:
+          type: string
+          description: Correo electrónico del usuario
+        password:
+          type: string
+          description: Contraseña del usuario
+      example:
+        first_name: Gabriela
+        last_name: Coder
+        email: gabriela@coder.com
+        password: hola1234
+  responses:
+    res201:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          type: object
+          properties:
+            _id:
+              type: string
+              description: ID del usuario
+            first_name:
+              type: string
+              description: Nombre del usuario
+            last_name:
+              type: string
+              description: Apellido del usuario
+            email:
+              type: string
+              description: Correo electrónico del usuario
+            avatar:
+              type: string
+              description: Avatar del usuario
+            role:
+              type: string
+              description: Rol del usuario
+          description: Datos del usuario registrado
+      example:
+        status: success
+        payload:
+          _id: 6634319c465242cd36b3a8b1
+          first_name: Gabriela
+          last_name: Coder
+          avatar: https://cdn-icons-png.flaticon.com/512/6596/6596121.png
+          email: gabriela@coder.com
+          role: user
+    res200User:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          type: array
+          items:
+            $ref: '#/components/schemas/User'
+          description: Lista de usuarios
+      example:
+        status: success
+        payload:
+          - _id: 6634319c465242cd36b3a8b1
+            first_name: Gabriela
+            last_name: Coder
+            email: gabriela@coder.com
+            avatar: https://cdn-icons-png.flaticon.com/512/6596/6596121.png
+            role: user
+    res200SingleUser:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          $ref: '#/components/schemas/User'
+      example:
+        status: success
+        payload:
+          _id: 6634319c465242cd36b3a8b1
+          first_name: Gabriela
+          last_name: Coder
+          email: gabriela@coder.com
+          avatar: https://cdn-icons-png.flaticon.com/512/6596/6596121.png
+          role: user
+    res404:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de error
+        message:
+          type: string
+          description: Descripción del error
+      example:
+        status: error
+        message: "No encontrado"
+paths:
+  /api/sessions/register:
+    post:
+      summary: Registrar un usuario
+      tags:
+        - Sessions
+      requestBody:
+        required: true
+        description: Datos del usuario
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Register'
+      responses:
+        '201':
+          description: Éxito
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res201'
+  /api/users:
+    get:
+      summary: Obtener todos los usuarios
+      tags:
+        - Users
+      responses:
+        '200':
+          description: Éxito
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res200User'
+        '404':
+          description: No encontrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res404'
+    post:
+      summary: Crear un nuevo usuario
+      tags:
+        - Users
+      requestBody:
+        required: true
+        description: Datos del usuario
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '201':
+          description: Éxito
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res201'
+  /api/users/{id}:
+    get:
+      summary: Obtener un usuario por ID
+      tags:
+        - Users
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: ID del usuario
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Éxito
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res200SingleUser'
+        '404':
+          description: No encontrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res404'
+    put:
+      summary: Actualizar un usuario por ID
+      tags:
+        - Users
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: ID del usuario
+          schema:
+            type: string
+      requestBody:
+        required: true
+        description: Datos del usuario
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '200':
+          description: Éxito
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res200SingleUser'
+        '404':
+          description: No encontrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res404'
+    delete:
+      summary: Eliminar un usuario por ID
+      tags:
+        - Users
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: ID del usuario
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Éxito
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res200SingleUser'
+        '404':
+          description: No encontrado
+          content:
+            application/json:
+              schema:
+                $ref: '#components/responses/res404'

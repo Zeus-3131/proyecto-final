@@ -1,0 +1,668 @@
+[33mWARN[39m: GET /api/simplex not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: productsManager.read is not a function
+[31mERROR[39m: productsManager.read is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: productsManager.read is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: productsManager.read is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: productsManager.read is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: email is not defined
+[33mWARN[39m: GET /api/user not found path
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[31mERROR[39m: this.model.read is not a function
+[33mWARN[39m: POST /api/sessions/register not found path
+[31mERROR[39m: Unknown authentication strategy "register"
+[31mERROR[39m: email is not defined
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: PUT /api/products/65f88d131eae62b51366021d/1 not found path
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: No hay ningún documento
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[31mERROR[39m: E11000 duplicate key error collection: Urban_feet.users index: email_1 dup key: { email: "googleeliminar2prue@gmail.com" }
+[33mWARN[39m: No hay ningún documento
+[31mERROR[39m: E11000 duplicate key error collection: Urban_feet.users index: email_1 dup key: { email: "googleeliminar2prue@gmail.com" }
+[31mERROR[39m: E11000 duplicate key error collection: Urban_feet.users index: email_1 dup key: { email: "alex@gmail.com" }
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[31mERROR[39m: E11000 duplicate key error collection: Urban_feet.users index: email_1 dup key: { email: "alex2@gmail.com" }
+[33mWARN[39m: No hay ningún documento
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: querySrv EREFUSED _mongodb._tcp.e-commerce.xmr5m69.mongodb.net
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'create')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'readOne')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: this.model.update is not a function
+[31mERROR[39m: this.model.update is not a function
+[31mERROR[39m: this.model.update is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: this.model.update is not a function
+[31mERROR[39m: this.readProductById is not a function
+[31mERROR[39m: this.model.update is not a function
+[31mERROR[39m: this.readProductById is not a function
+[31mERROR[39m: this.model.update is not a function
+[31mERROR[39m: this.readProductById is not a function
+[31mERROR[39m: this.model.readOne is not a function
+[31mERROR[39m: this.model.readOne is not a function
+[31mERROR[39m: this.model.update is not a function
+[31mERROR[39m: this.readProductById is not a function
+[31mERROR[39m: No hay ningún producto con id=477040e32e9f09791afacafb
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: No hay ningún documento
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: repository.readByEmail is not a function
+[31mERROR[39m: repository.readByEmail is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[31mERROR[39m: this.model.findOne is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading '_id')
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/users not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET / not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/products not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/products not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/users not found path
+[33mWARN[39m: GET /api/users not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[33mWARN[39m: Token not provided
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: Forbidden
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'toUpperCase')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'toUpperCase')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'toUpperCase')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[33mWARN[39m: Unexpected string in JSON at position 53
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Invalid idcat value: H. Allowed values are M, F
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b51366021f not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[33mWARN[39m: GET /api/productos/65f892071eae62b513660221 not found path
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: undefined
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[33mWARN[39m: POST /api/me not found path
+[33mWARN[39m: POST /api/sessions/me not found path
+[33mWARN[39m: POST /api/sessions/me not found path
+[31mERROR[39m: Cannot read properties of null (reading '_id')
+[33mWARN[39m: POST /api/sessions/me not found path
+[31mERROR[39m: Cannot read properties of undefined (reading '_id')
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: No document found for query "{ _id: new ObjectId('69f32b2fcc3568b7d7e14de5') }" on model "products"
+[31mERROR[39m: No document found for query "{ _id: new ObjectId('d1db9f74abb78f3c94d1f142') }" on model "products"
+[31mERROR[39m: No document found for query "{ _id: new ObjectId('8c6aaf1819c6ce82153c4197') }" on model "products"
+[31mERROR[39m: No document found for query "{ _id: new ObjectId('6b02e44932be1105a4944132') }" on model "products"
+[31mERROR[39m: No document found for query "{ _id: new ObjectId('4deaeb8facb92f3981cf93f8') }" on model "products"
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: No document found for query "{ _id: new ObjectId('4e40a90f9d1087cd5f6e98bf') }" on model "products"
+[31mERROR[39m: No document found for query "{ _id: new ObjectId('9002753e74dfee075fb3896e') }" on model "products"
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[31mERROR[39m: Invalid idcat value: undefined. Allowed values are M, F
+[33mWARN[39m: GET /scritp/signout.js not found path
+[33mWARN[39m: GET /api/commens not found path
+[33mWARN[39m: NOT FOUND!
+[31mERROR[39m: Cannot read properties of undefined (reading 'repository')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[31mERROR[39m: Cannot read properties of null (reading 'email')
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[33mWARN[39m: POST /api/sessions/verify not found path
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: El usuario no está autenticado o no tiene un _id válido
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[33mWARN[39m: GET /api/orders/665cb4418b70768212224c41?= not found path
+[33mWARN[39m: GET /api/orders/665cb4418b70768212224c41 not found path
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: undefined
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: filter is not defined
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: filter is not defined
+[31mERROR[39m: filter is not defined
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.paginate is not a function
+[31mERROR[39m: this.model.findById is not a function
+[31mERROR[39m: this.model.findByIdAndUpdate is not a function
+[31mERROR[39m: this.model.findByIdAndDelete is not a function
+[31mERROR[39m: ¡No hay órdenes!
+[31mERROR[39m: users validation failed: role: Cast to Number failed for value "admin" (type string) at path "role", username: Path `username` is required.
+[31mERROR[39m: users validation failed: role: Cast to Number failed for value "admin" (type string) at path "role", username: Path `username` is required.
+[31mERROR[39m: users validation failed: role: Cast to Number failed for value "admin" (type string) at path "role", username: Path `username` is required.

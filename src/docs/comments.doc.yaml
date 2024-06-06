@@ -1,0 +1,111 @@
+openapi: 3.0.0
+info:
+  title: API de Gestión de Comentarios
+  description: API para la gestión de comentarios.
+  version: 1.0.0
+components:
+  schemas:
+    Comment:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: ID del comentario
+        user_id:
+          type: string
+          description: ID del usuario que realizó el comentario
+        product_id:
+          type: string
+          description: ID del producto asociado al comentario
+        content:
+          type: string
+          description: Contenido del comentario
+      example:
+        _id: 6634319c465242cd36b3a8c1
+        user_id: 6634319c465242cd36b3a8b1
+        product_id: 6634319c465242cd36b3a8b3
+        content: Este es un comentario de ejemplo.
+  responses:
+    res201Comment:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          $ref: '#/components/schemas/Comment'
+      example:
+        status: success
+        payload:
+          _id: 6634319c465242cd36b3a8c1
+          user_id: 6634319c465242cd36b3a8b1
+          product_id: 6634319c465242cd36b3a8b3
+          content: Este es un comentario de ejemplo.
+    res200Comment:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          type: array
+          items:
+            $ref: '#/components/schemas/Comment'
+      example:
+        status: success
+        payload:
+          - _id: 6634319c465242cd36b3a8c1
+            user_id: 6634319c465242cd36b3a8b1
+            product_id: 6634319c465242cd36b3a8b3
+            content: Este es un comentario de ejemplo.
+  paths:
+    /api/products/{id}/comments:
+      get:
+        summary: Obtener todos los comentarios de un producto por ID
+        tags:
+          - Products
+        parameters:
+          - name: id
+            in: path
+            required: true
+            description: ID del producto
+            schema:
+              type: string
+        responses:
+          '200':
+            description: Éxito
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res200Comment'
+          '404':
+            description: No encontrado
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res404'
+      post:
+        summary: Agregar un comentario a un producto por ID
+        tags:
+          - Products
+        parameters:
+          - name: id
+            in: path
+            required: true
+            description: ID del producto
+            schema:
+              type: string
+        requestBody:
+          required: true
+          description: Datos del comentario
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Comment'
+        responses:
+          '201':
+            description: Éxito
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res201Comment'

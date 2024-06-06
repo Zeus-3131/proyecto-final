@@ -1,0 +1,137 @@
+openapi: 3.0.0
+info:
+  title: API de Gestión de Productos
+  description: API para la gestión de productos.
+  version: 1.0.0
+components:
+  schemas:
+    Product:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: ID del producto
+        name:
+          type: string
+          description: Nombre del producto
+        description:
+          type: string
+          description: Descripción del producto
+        price:
+          type: number
+          description: Precio del producto
+      example:
+        _id: 6634319c465242cd36b3a8b3
+        name: Producto de Ejemplo
+        description: Descripción del producto de ejemplo
+        price: 50.00
+  responses:
+    res201Product:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          $ref: '#/components/schemas/Product'
+      example:
+        status: success
+        payload:
+          _id: 6634319c465242cd36b3a8b3
+          name: Producto de Ejemplo
+          description: Descripción del producto de ejemplo
+          price: 50.00
+    res200Product:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          type: array
+          items:
+            $ref: '#/components/schemas/Product'
+      example:
+        status: success
+        payload:
+          - _id: 6634319c465242cd36b3a8b3
+            name: Producto de Ejemplo
+            description: Descripción del producto de ejemplo
+            price: 50.00
+    res200SingleProduct:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Código de éxito
+        payload:
+          $ref: '#/components/schemas/Product'
+      example:
+        status: success
+        payload:
+          _id: 6634319c465242cd36b3a8b3
+          name: Producto de Ejemplo
+          description: Descripción del producto de ejemplo
+          price: 50.00
+  paths:
+    /api/products:
+      get:
+        summary: Obtener todos los productos
+        tags:
+          - Products
+        responses:
+          '200':
+            description: Éxito
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res200Product'
+          '404':
+            description: No encontrado
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res404'
+      post:
+        summary: Crear un nuevo producto
+        tags:
+          - Products
+        requestBody:
+          required: true
+          description: Datos del producto
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+        responses:
+          '201':
+            description: Éxito
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res201Product'
+    /api/products/{id}:
+      get:
+        summary: Obtener un producto por ID
+        tags:
+          - Products
+        parameters:
+          - name: id
+            in: path
+            required: true
+            description: ID del producto
+            schema:
+              type: string
+        responses:
+          '200':
+            description: Éxito
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res200SingleProduct'
+          '404':
+            description: No encontrado
+            content:
+              application/json:
+                schema:
+                  $ref: '#/components/responses/res404'
